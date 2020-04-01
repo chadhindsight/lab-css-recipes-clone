@@ -16,3 +16,7 @@ body{
 li {
     list-style: none;
 }
+
+#section-2, #section-1, #Section-3 {
+  padding-left: 5%;
+}
